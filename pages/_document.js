@@ -29,6 +29,11 @@ class MyDocument extends Document {
               />
             </>
           )}
+          <script
+              defer // defer 属性确保脚本在 HTML 解析完成后、DOMContentLoaded 事件之前执行
+              src="https://uma.qlqqs.com/script.js"
+              data-website-id="37f80f4a-ada4-4ac9-ab42-ab95a40cde7f"
+          ></script>
         </Head>
 
         <body>
